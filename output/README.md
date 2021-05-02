@@ -1,9 +1,9 @@
 
 
-# Readme Generator
+# README Generator
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## Description
-This is a readme generator
+NodeJS commandline application to generate the markup README.md file for the github projects.
 #
 ## Table of Contents
 * [Installation](#installation)
@@ -16,21 +16,21 @@ This is a readme generator
 ## Installation
 In order to install necessary dependencies, open the console and run the following
 
-```npm i```
+```npm install```
 #
 ## Usage
-To document your project
+Generate the readme file
 #
 ## License
 This project is licensed under MIT.
 #
 ## Contributing
-No contributions accepted yet
+Create pullrequest in Github repository
 #
 ## Tests
 In order to test, open the console and run the following
 
-```npm run tests```
+```npm run test```
 #
 ## Questions
-For additional questions, please contact me at testuser123@gmail.com. View more of my work at [GitHub](https://github.com/testuser123)
+For additional questions, please contact me at ikrammmmm123@gmail.com. View more of my work at [GitHub](https://github.com/ikrammmmm)
